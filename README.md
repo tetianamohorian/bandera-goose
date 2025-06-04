@@ -46,9 +46,6 @@ A dynamic arcade-style 2D game made in Python using the `pygame` library. You co
 - Working with graphics and sprite animation
 - Collision logic and object-oriented game design
 
-## 📸 Screenshots
-
-_Add a screenshot or GIF of gameplay here if available._
 
 ## 📚 License
 
